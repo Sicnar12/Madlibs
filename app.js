@@ -33,5 +33,5 @@ function createParagraph(){
  var paragraph =  one + ' of internet' + two +  ' of about ' + three +' million ' + four +' said they went to ' + five +' to get news or '+ six +' about the ' + seven +' elections. We call them the ' + eight +' politician' + nine +' consumers. ' + ten +' of ' + eleven +' users or about ' + twelve +'million people said they used ' + thirteen +' to discuss ' + fourteen +' and one of the most ' + fifteen +' a ' + sixteen + ' was jokes about the'+ seventeen +'and the election. '+ eighteen +' of' + nineteen +' or more than '+ twenty +' million people '+ twentyOne + 'online to '+ twentyTwo + 'directly in  ' + twentyThree +' activities such as donating ' + twentyFour +', volunteering or gerund about ' + twentyFive +' events to attend. I think President ' + twentySix +' is a '+ twentySeven +'' + twentyEight +'and should be ' + twentyNine +' past tense in the ' + thirty +'.'
 
  
+ document.getElementById('name').innerHTML = paragraph
 }
-document.getElementById().innerHTML = paragraph
